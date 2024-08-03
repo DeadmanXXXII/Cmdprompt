@@ -219,4 +219,3 @@ Here is the extensive list of commands for cmdprompt CLI only.
 ## Summary
 
 This list covers a broad range of `cmd` commands for system administration, security, file management, network diagnostics, and more. Commands are organized by category to facilitate efficient use in various administrative and troubleshooting tasks. Always ensure to run commands with the appropriate privileges and follow best practices for system management.
-```
