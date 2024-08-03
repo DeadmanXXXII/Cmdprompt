@@ -2,7 +2,6 @@
 Command list
 Here is the extensive list of commands for cmdprompt CLI only.
 
-```markdown
 ## System Information and Management
 
 - **Get system information:**
